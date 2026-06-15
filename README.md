@@ -2,16 +2,18 @@
 
 ## 🤖 Machine Learning Explorer & Math Storyteller 📐
 
-I am learning machine learning and teaching math to help make me understand the concepts myself! I believe the best way to master the math under the hood of AI is to break it down and share that knowledge with others.
+I am learning machine learning and teaching math to help make me understand the concepts myself! I believe the best way to master the math under the hood of AI is to break it down and share that knowledge with others. 
+
+🎓 Currently enrolled at **Eduvos**, studying toward a **Higher Certificate in Information Systems (Machine Learning, NQF 5)**.
 
 ---
 
 ### 📺 Connect With Me & My Work
 
-* 🎥 **YouTube:** Check out my channel [Kotelo Labs](https://www.youtube.com/@kotelolabs) where I teach math concepts for machine learning or robotics.
+* 🎥 **YouTube:** Check out my channel [Kotelo Labs](https://www.youtube.com/@kotelolabs) where I teach the math you need to know for machine learning or robotics.
 * 💼 **LinkedIn:** [Connect with me on LinkedIn](http://linkedin.com/in/orliyah-kotelo/)
 * 📧 **Email:** Reach out to me for collaborations at [orliyahkotelofreelancer@gmail.com](mailto:orliyahkotelofreelancer@gmail.com)
-*🎓 Currently enrolled at **Eduvos**, studying toward a **Higher Certificate in Information Systems (Machine Learning, NQF 5)**.
+
 ---
 
 ### 🛠️ Tech Stack & Tools
