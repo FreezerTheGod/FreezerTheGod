@@ -11,7 +11,7 @@ I am learning machine learning and teaching math to help make me understand the 
 * 🎥 **YouTube:** Check out my channel [Kotelo Labs](https://www.youtube.com/@kotelolabs) where I teach math concepts for machine learning or robotics.
 * 💼 **LinkedIn:** [Connect with me on LinkedIn](http://linkedin.com/in/orliyah-kotelo/)
 * 📧 **Email:** Reach out to me for collaborations at [orliyahkotelofreelancer@gmail.com](mailto:orliyahkotelofreelancer@gmail.com)
-🎓 Currently enrolled at **Eduvos**, studying toward a **Higher Certificate in Information Systems (Machine Learning, NQF 5)**.
+*🎓 Currently enrolled at **Eduvos**, studying toward a **Higher Certificate in Information Systems (Machine Learning, NQF 5)**.
 ---
 
 ### 🛠️ Tech Stack & Tools
