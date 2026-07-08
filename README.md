@@ -18,8 +18,8 @@ I am learning machine learning and teaching math to help make me understand the 
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages & Libraries:** Python (NumPy, Pandas), SQL
+* **Languages & Libraries:** Learning and Mastering: Python (NumPy, Pandas), SQL
 * **ML Frameworks:** Scikit-Learn *(Currently working my way up to TensorFlow & PyTorch!)*
-* **Tools:** VS Code, Git, Jupyter Notebooks
+* **Tools:** VS Code, Git, Google Colab
 
 ⚡ **Fun Fact:** I use code to visualize the exact math concepts I teach on my channel!
