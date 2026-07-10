@@ -1,6 +1,6 @@
 # Hi there, I'm Kamohelo Lesedi Kotelo! 👋
 
-## 🤖 Machine Learning Explorer & Math Storyteller 📐
+## 🤖 Machine Learning Student & Math Teaching 📐
 
 I am learning machine learning and teaching math to help make me understand the concepts myself! I believe the best way to master the math under the hood of AI is to break it down and share that knowledge with others. 
 
