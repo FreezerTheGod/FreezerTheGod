@@ -1,8 +1,8 @@
 # Hi there, I'm Kamohelo Lesedi Kotelo! 👋
 
-## 🤖 Machine Learning Student & Math Teaching 📐
+## 🤖 Machine Learning Student, Learning Math & Game Dev 📐
 
-I am learning machine learning and teaching math to help make me understand the concepts myself! I believe the best way to master the math under the hood of AI is to break it down and share that knowledge with others. 
+I am learning machine learning, getting started with Godot 4 game development, and teaching math to help make me understand the concepts myself! I believe the best way to master the math under the hood of machine learning is to break it down and share that knowledge with others.
 
 🎓 Currently enrolled at **Eduvos**, studying toward a **Higher Certificate in Information Systems (Machine Learning, NQF 5)**.
 
