@@ -4,7 +4,7 @@
 
 I am a passionate developer with a strong foundation in modern web development, now expanding deep into machine learning, data engineering, and Godot 4 game development. I believe the best way to master complex concepts from front-end architecture to the math under the hood of machine learning is to build real projects and share that knowledge with others.
 
-🎓 Currently enrolled at **Eduvos**, studying toward a **Higher Certificate in Information Systems (Machine Learning, NQF 5)**[cite: 2], with plans to progress into a Computer Science degree in 2027[cite: 2].
+🎓 Currently enrolled at **Eduvos**, studying toward a **Higher Certificate in Information Systems (Machine Learning, NQF 5)**, with plans to progress into a Computer Science degree in 2027.
 
 ---
 
